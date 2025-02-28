@@ -2,14 +2,23 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
+<<<<<<< HEAD
   serializedVersion: 3
   tags:
   - Water
+=======
+  serializedVersion: 2
+  tags: []
+>>>>>>> ca818f8ecef1bba30d1c097e5741616e85ff8545
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
+<<<<<<< HEAD
   - Water Surface
+=======
+  - 
+>>>>>>> ca818f8ecef1bba30d1c097e5741616e85ff8545
   - Water
   - UI
   - 
@@ -51,3 +60,30 @@ TagManager:
   - Light Layer 5
   - Light Layer 6
   - Light Layer 7
+<<<<<<< HEAD
+=======
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+>>>>>>> ca818f8ecef1bba30d1c097e5741616e85ff8545
